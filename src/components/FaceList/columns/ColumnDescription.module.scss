@@ -1,0 +1,139 @@
+.columnContact {
+    background: linear-gradient(45deg, #3c3a46 25%, transparent 25%, transparent 75%, #3c3a46 75%),
+        linear-gradient(45deg, #3c3a46 25%, transparent 25%, transparent 75%, #3c3a46 75%) 0.1875em 0.1875em,
+        radial-gradient(at 50% 0, #4f5866, #212124);
+    background-size: 0.375em 0.375em, 0.375em 0.375em, 100% 100%;
+    box-shadow: 8px 0px 10px 3px rgb(88, 88, 88);
+    
+
+    .avatar {
+        margin: 30px auto;
+        position: relative;
+        width: 60%;
+        height: 17%;
+
+        .fotoCv {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+        }
+    }
+
+    .businessCard {
+        .rectangle {
+            width: 80%;
+            height: 30px;
+            background-color: rgba(233, 115, 115, 0.6);
+            font-size: 20px;
+            padding-left: 50px;
+
+        }
+
+        .redFon {
+            margin-top: -8px;
+            margin-left: 50px;
+            width: 0;
+            height: 0;
+            border-bottom: 16px solid rgba(233, 115, 115, 0.6);
+            border-left: 16px solid transparent;
+            rotate: 45deg;
+        }
+
+        .contact {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+
+            .icons {
+                margin: 5px 0 0 20px;
+                justify-self: center;
+            }
+            .contactText {
+                justify-self: start;
+                align-self: center;
+                margin-right: 10px;
+            }
+        }
+    }
+
+    .language {
+        .rectangle {
+            margin-top: 20px;
+            width: 80%;
+            height: 30px;
+            background-color: rgba(183, 245, 107, 0.6);
+            font-size: 20px;
+            padding-left: 50px;
+
+        }
+
+        .redFon {
+            margin-top: -8px;
+            margin-left: 50px;
+            width: 0;
+            height: 0;
+            border-bottom: 16px solid rgba(183, 245, 107, 0.6);
+            border-left: 16px solid transparent;
+            rotate: 45deg;
+        }
+        .otherText {
+            margin-top: 5px;
+            margin-left: 60px;
+        }
+    }
+    .skills {
+        .rectangle {
+            margin-top: 10px;
+            width: 80%;
+            height: 30px;
+            background-color: rgba(104, 146, 185, 0.767);
+            font-size: 20px;
+            padding-left: 50px;
+
+        }
+
+        .redFon {
+            margin-top: -8px;
+            margin-left: 50px;
+            width: 0;
+            height: 0;
+            border-bottom: 16px solid rgba(104, 146, 185, 0.767);
+            border-left: 16px solid transparent;
+            rotate: 45deg;
+        }
+        ul{
+            margin-top: 5px;
+            margin-left: 20px;
+            li{
+                font-size: 16px;
+            }
+        }
+    }
+    .hobbie {
+        .rectangle {
+            margin-top: 20px;
+            width: 80%;
+            height: 30px;
+            background-color: rgba(230, 177, 78, 0.767);
+            font-size: 20px;
+            padding-left: 50px;
+
+        }
+
+        .redFon {
+            margin-top: -8px;
+            margin-left: 50px;
+            width: 0;
+            height: 0;
+            border-bottom: 16px solid rgba(230, 177, 78, 0.767);
+            border-left: 16px solid transparent;
+            rotate: 45deg;
+        }
+        .icons {
+            margin: 10px 0 0 20px;
+            justify-self: center;
+        }
+    }
+}
