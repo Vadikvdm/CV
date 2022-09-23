@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CV/static/css/main.24aee90f.css",
+    "main.js": "/CV/static/js/main.d4cb5938.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CV/static/js/787.28cb0dcd.chunk.js",
+    "static/media/044.jpg": "/CV/static/media/044.5b5ab9ec592b62659cc4.jpg",
+    "static/media/3d.svg": "/CV/static/media/3d.916c13af0c60d240aa5fa71f48678c8c.svg",
+    "static/media/github.svg": "/CV/static/media/github.68ae8017a9ddd752168923b324ca9b59.svg",
+    "static/media/saturn.svg": "/CV/static/media/saturn.e6498daacdfcd81f01f7ba46c7035712.svg",
+    "static/media/telegram.svg": "/CV/static/media/telegram.c58d787a19ac7c6747c4e0763e2aeda5.svg",
+    "static/media/telephone.svg": "/CV/static/media/telephone.c86ea62e12c221ee7a03ae2afc00c8ff.svg",
+    "static/media/icons8-home2.svg": "/CV/static/media/icons8-home2.ea4ce9c6d648ffdc9ee70dfccef8839b.svg",
+    "static/media/3dModeling.svg": "/CV/static/media/3dModeling.72319320b699f787cd4c6a337675866b.svg",
+    "static/media/email1.svg": "/CV/static/media/email1.8fadfc464bf7c0560e530e8685fd5b43.svg",
+    "static/media/music.svg": "/CV/static/media/music.e1fa1e6a1ecb0194b5034f88bb404eb6.svg",
+    "index.html": "/CV/index.html",
+    "main.24aee90f.css.map": "/CV/static/css/main.24aee90f.css.map",
+    "main.d4cb5938.js.map": "/CV/static/js/main.d4cb5938.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CV/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24aee90f.css",
+    "static/js/main.d4cb5938.js"
+  ]
+}
